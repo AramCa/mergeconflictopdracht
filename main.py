@@ -24,7 +24,8 @@ def start():
     
     print(randomHaiku())
 
+    print("aram is not smart")
     pass
 
-
+ 
 start()
